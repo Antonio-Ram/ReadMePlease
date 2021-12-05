@@ -32,7 +32,9 @@ inquirer
     // Use user feedback for... whatever!!
     console.log(answers)
 
-    fs.writeFile("ReadMe.md", JSON.stringify(answers, null, '\t'), (err) => {
+    // TODO: Create a function to write README file
+    //function writeToFile(fileName, data) {}
+    fs.writeFile("README.md", JSON.stringify(answers, null, '\t'), (err) => {
         if (err) {
             console.log(err);
         } else {
@@ -48,11 +50,10 @@ inquirer
     }
 });
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+
 
 // TODO: Create a function to initialize app
-function init() {}
+//function init() {}
 
 // Function call to initialize app
-init();
+//init();
