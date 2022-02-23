@@ -5,4 +5,4 @@
 	"how": "My app uses JavaScript code that calls on node, using the inquirer module to prompt questions and create a README file with the answers."
 }
 
-link to walkthrough video: https://watch.screencastify.com/v/499D390t00XBorhRwJ8q
+link to walkthrough video: https://github.com/Antonio-Ram/ReadMePlease
