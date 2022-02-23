@@ -1,7 +1,7 @@
-# ReadmeGen
+# ReadMeGenerator
 
   ##Description 
-  undefined
+  Generates a quality read me for a project you are working on
 
   ##Table of Contents
   Installation
@@ -12,22 +12,22 @@
   Questions
 
   ##Installation
-  dkjfal
+  Clonging the code from github
 
   ##Usage
-  jdkfal
+  How to use node
 
 
   ##License
   undefined
 
   ##Contributing
-  dfjkaldkf
+  Clone the github repo and request permision to work on the project
 
   ##Test
-  kjdfal
+  run node index.js
 
   ##Questions
-  [djfkal](https://github.com/djfkal)
-  You can also reach me at dfkjla with any additional questions
+  [Aramirez](https://github.com/Aramirez)
+  You can also reach me at tonito@umich.edu with any additional questions
   
