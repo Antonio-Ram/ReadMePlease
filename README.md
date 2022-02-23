@@ -28,6 +28,7 @@
   run node index.js
 
   ##Questions
-  [Aramirez](https://github.com/Aramirez)
+  [Antonio-Ram](https://github.com/Antonio-Ram)
   You can also reach me at tonito@umich.edu with any additional questions
-  
+
+link to walkthrough video: https://github.com/Antonio-Ram/ReadMePlease
